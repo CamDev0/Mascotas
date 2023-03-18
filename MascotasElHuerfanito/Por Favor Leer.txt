@@ -1,0 +1,15 @@
+INTEGRANTES:
+
+CAMILO ANDRÉS BARRIOS MEZA - 20158362
+
+SEBASTIAN BERRÍO CHAVARRÍA - 20158038
+
+Profe, hay conexiónes en estas 3 clases.
+(Para que cambie el data source)
+
+MASCOTAS EL HUERFANITO
+AccesoData.cs > En la conexión (conn)
+ControlAcceso.cs > Botón Ingresar
+
+WEB MASCOTAS EL HUERFANITO
+Default.aspx > Botón Consultar
