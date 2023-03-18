@@ -1,10 +1,5 @@
-INTEGRANTES:
 
-CAMILO ANDRÉS BARRIOS MEZA - 20158362
-
-SEBASTIAN BERRÍO CHAVARRÍA - 20158038
-
-Profe, hay conexiónes en estas 3 clases.
+ Hay conexiónes en estas 3 clases.
 (Para que cambie el data source)
 
 MASCOTAS EL HUERFANITO
