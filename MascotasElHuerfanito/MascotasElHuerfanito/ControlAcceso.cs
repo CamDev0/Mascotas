@@ -25,7 +25,7 @@ namespace MascotasElHuerfanito
             string clave = txtContra.Text;
 
                 //local
-            SqlConnection conn = new SqlConnection("Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=MascotasElHuerfanito;Data Source=CAM\\CAMSQLSERVER");
+            SqlConnection conn = new SqlConnection("Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=MascotasElHuerfanito;Data Source=Su_servidor_SQL");
 
             if (String.IsNullOrEmpty(txtUsuario.Text) || String.IsNullOrEmpty(txtContra.Text))
             {

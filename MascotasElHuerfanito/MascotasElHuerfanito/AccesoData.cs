@@ -11,7 +11,7 @@ namespace MascotasElHuerfanito
     {
 
               //Local
-        private SqlConnection conn = new SqlConnection("Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=MascotasElHuerfanito;Data Source=CAM\\CAMSQLSERVER");
+        private SqlConnection conn = new SqlConnection("Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=MascotasElHuerfanito;Data Source=Su_servidor_SQL");
 
         //MASCOTAS
         public List<DatosTabla> getDatos(string search = null)

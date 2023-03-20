@@ -23,7 +23,7 @@ namespace WebAppElHuerfanito
 
             try
             {
-                conn = new SqlConnection("Data Source= CAM\\SQLEXPRESS; Initial Catalog= MascotasElHuerfanito; integrated security= true;");
+                conn = new SqlConnection("Data Source= Su_servidor_SQL; Initial Catalog= MascotasElHuerfanito; integrated security= true;");
                 conn.Open();
                 String query = "SELECT * FROM DataMascotas WHERE id = " + Int32.Parse(txtID.Text);
 
